@@ -1,0 +1,4 @@
+#Wed Jun 05 19:35:42 CEST 2024
+base.0=/home/cesarqs/AndroidStudioProjects/LanguageLink/Application/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
